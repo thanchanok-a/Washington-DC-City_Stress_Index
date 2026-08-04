@@ -120,4 +120,4 @@ Open-Meteo requires no key.
 
 ## License
 
-Add a license of your choice (MIT is a common default for portfolio projects).
+
